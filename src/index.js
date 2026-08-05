@@ -1,4 +1,4 @@
-// Returns a friendly greeting for the given name
+// Builds a friendly greeting string for the given name
 function sayHi(name) {
   return `Hello there ${name}`
 }
